@@ -3,7 +3,7 @@ Creating the same effect as Game Over but using the std namesoace more efficient
     i.e. employs a using directive
 Also uses the comment notation from C.*/
 
-#include <iospace>
+#include <iostream>
 //the preprocessing directive
 using namespace std;
 //the using directive
