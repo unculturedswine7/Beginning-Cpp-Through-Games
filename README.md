@@ -8,3 +8,5 @@ The source codes in this repo are my modifications of the source code found in t
 The book is in its third edition and was published in 2013.
 
 All source codes will be in C++ and are intended soley for learning the language.
+
+A lot of the codes may emply a "using" directive to access a namespace, but that is soley for the sake of berevity.
