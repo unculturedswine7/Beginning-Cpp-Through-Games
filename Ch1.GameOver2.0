@@ -1,0 +1,13 @@
+/*Game Over 2.0
+Creating the same effect as Game Over but using the std namesoace more efficiently.
+Also uses the comment notation from C.*/
+
+#include <iospace>
+using namespace std;
+
+
+int main()
+{
+    cout << "Game Over!" << ednl;
+    return 0;
+}
