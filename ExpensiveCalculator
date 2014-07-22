@@ -4,7 +4,7 @@ Turns the highest end gaming machine into a dopey calculator.
 This program is a simple example of the arithmetic functions in C++.
 */
 
-#include <iospace>
+#include <iostream>
 using namespace std;
 
 int main()
