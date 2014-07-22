@@ -1,0 +1,19 @@
+/* Game Over 3.0
+Doing the same thing as Game Over 2.0, but another way.
+  i.e. makes the use of the std:: prefix without a "using" directive or the prefix std:: in the function.
+  i.e. uses declarations.*/
+  
+#include <iostream>
+//includes the file "iostream" from the standard C++ library.
+
+using std::cout;
+//declares the cout object
+
+using std::endl;
+//declares the endl object
+
+int main()
+{
+	cout << "Game Over!" << endl;
+	return 0;
+}
