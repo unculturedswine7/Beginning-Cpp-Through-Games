@@ -1,9 +1,12 @@
 /*Game Over 2.0
 Creating the same effect as Game Over but using the std namesoace more efficiently.
+    i.e. employs a using directive
 Also uses the comment notation from C.*/
 
 #include <iospace>
+//the preprocessing directive
 using namespace std;
+//the using directive
 
 
 int main()
